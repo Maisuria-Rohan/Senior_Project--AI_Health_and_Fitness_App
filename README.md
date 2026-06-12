@@ -12,7 +12,7 @@ Many students struggle to stay consistent with fitness because of demanding acad
 
 Traditional fitness applications often provide generic workout plans that do not adapt to a user's schedule, availability, or fitness level.
 
-The AI Health and Fitness Application was developed to solve this problem by generating personalized workout plans based on user information, available workout days, and fitness experience. The application also includes activity tracking, workout streak monitoring, and an AI-powered fitness chatbot for workout-related assistance. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+The AI Health and Fitness Application was developed to solve this problem by generating personalized workout plans based on user information, available workout days, and fitness experience. The application also includes activity tracking, workout streak monitoring, and an AI-powered fitness chatbot for workout-related assistance.
 
 ---
 
@@ -77,7 +77,7 @@ As one of the primary backend developers, I worked on:
 
 Students and working individuals often find it difficult to maintain fitness routines because of busy schedules and lack of personalized guidance.
 
-The goal of this project was to create a mobile application that generates customized workout plans that fit a user's schedule, fitness level, and available workout time while providing intelligent assistance through AI. :contentReference[oaicite:2]{index=2}
+The goal of this project was to create a mobile application that generates customized workout plans that fit a user's schedule, fitness level, and available workout time while providing intelligent assistance through AI. 
 
 ---
 
@@ -102,7 +102,7 @@ Users provide:
 - Available workout days
 - Available workout times
 
-The system generates a customized workout schedule based on the user's availability and fitness profile. :contentReference[oaicite:3]{index=3}
+The system generates a customized workout schedule based on the user's availability and fitness profile. 
 
 ### Workout Plans
 
@@ -139,7 +139,7 @@ Users can:
 - Get exercise recommendations
 - Receive workout-related assistance
 
-The chatbot uses OpenAI GPT integration and a fitness knowledge base to provide relevant responses. :contentReference[oaicite:4]{index=4}
+The chatbot uses OpenAI GPT integration and a fitness knowledge base to provide relevant responses. 
 
 ### User Preferences
 
@@ -151,7 +151,9 @@ The chatbot uses OpenAI GPT integration and a fitness knowledge base to provide 
 
 ## System Architecture
 
-The application follows a multi-layer architecture:
+The application follows a multi-layer architecture: 
+<img width="307" height="367" alt="image" src="https://github.com/user-attachments/assets/81402a6e-05b5-484c-a63d-be523e60d256" />
+
 
 ### Frontend
 
@@ -174,7 +176,7 @@ The application follows a multi-layer architecture:
 - OpenAI GPT
 - Vector Store Knowledge Base
 
-The frontend communicates with the backend through REST APIs. The backend processes user requests, stores data in the database, and communicates with the AI engine when chatbot functionality is used. :contentReference[oaicite:5]{index=5}
+The frontend communicates with the backend through REST APIs. The backend processes user requests, stores data in the database, and communicates with the AI engine when chatbot functionality is used.
 
 ---
 
@@ -210,39 +212,35 @@ The frontend communicates with the backend through REST APIs. The backend proces
 
 ---
 
-## Application Screens
-
-### Login Screen
-
-[Insert Screenshot]
+## Application Screens Demo
 
 ### Account Creation
 
-[Insert Screenshot]
+https://github.com/user-attachments/assets/7444db7f-d3b5-452f-be4e-342b692aac81
 
-### Home Screen
+### Login Screen
 
-[Insert Screenshot]
+https://github.com/user-attachments/assets/64ccfce2-7a6e-4b26-ae1b-5ec745e82bf6
 
-### Workout Schedule
+### User Details
 
-[Insert Screenshot]
+https://github.com/user-attachments/assets/f08d2f6e-4212-4138-92f2-2df2df14bd6c
 
-### Workout Details
+### Homescreen & AI Chatbot
 
-[Insert Screenshot]
+https://github.com/user-attachments/assets/295aa850-7445-476a-b212-0e1996d3b802
 
-### Statistics Dashboard
+### Workout Plan
 
-[Insert Screenshot]
+https://github.com/user-attachments/assets/6693f34f-7412-4710-a345-a06ee41dc907
 
-### Profile Screen
+### Stats Page
 
-[Insert Screenshot]
+https://github.com/user-attachments/assets/2d4f9c13-e3b6-4942-9329-86ffd4731c29
 
-### AI Chatbot
+### Profile & Settings 
 
-[Insert Screenshot]
+https://github.com/user-attachments/assets/c3247efa-3fa9-4e6b-9230-c8ac0f636ff5
 
 ---
 
@@ -261,7 +259,7 @@ The project was tested using Android Studio emulators and backend API testing.
 - Schedule Management
 - Account Deletion
 
-Test cases were created to verify all major functional requirements before deployment. :contentReference[oaicite:6]{index=6}
+Test cases were created to verify all major functional requirements before deployment. 
 
 ---
 
@@ -301,15 +299,13 @@ Test cases were created to verify all major functional requirements before deplo
 
 Potential future enhancements include:
 
-- Water intake tracking
 - Calorie tracking
 - Social features
-- Friend system
 - Cloud synchronization
 - Social media sharing
 - Expanded wellness recommendations
 
-These features were identified during project planning for future releases. :contentReference[oaicite:7]{index=7}
+These features were identified during project planning for future releases. 
 
 ---
 
@@ -323,7 +319,7 @@ The project successfully delivered a functional AI-powered fitness application c
 - Providing AI-assisted fitness guidance
 - Managing user profiles and preferences
 
-The application was presented as part of the Senior Project course and demonstrated the complete software development lifecycle including planning, requirements gathering, design, implementation, testing, deployment, and final presentation. :contentReference[oaicite:8]{index=8}
+The application was presented as part of the Senior Project course and demonstrated the complete software development lifecycle including planning, requirements gathering, design, implementation, testing, deployment, and final presentation. 
 
 ---
 
